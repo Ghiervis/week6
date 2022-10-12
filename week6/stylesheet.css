@@ -11,3 +11,36 @@ ul.list > li
     list-style-type: none;
     border-bottom: 1px solid gray;
 }
+
+a:visited{
+    color: green;
+}
+
+a:link{
+    color: red;
+}
+
+a:hover{
+    color: pink;
+}
+
+li:first-child {
+    font-size: 120%;
+    font-style: bold;
+}
+.main {
+    color: rebeccapurple;
+    border: 2px solid #ccc;
+    padding: 1em;
+    }
+    .special{
+        color:green;
+    }
+
+    img{
+        float: left;
+    }
+
+    .below {
+        clear: left;
+    }
